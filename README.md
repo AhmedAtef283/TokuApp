@@ -23,3 +23,6 @@ Toku App comes with the following features:
 # Technologies Used
 - Flutter: A popular framework for building cross-platform mobile applications.
 - Dart: The programming language used to build Flutter apps.
+
+# Contributing
+If you are interested in contributing to Toku App, feel free to fork the repository and submit a pull request. You can also report any issues or suggest new features by opening an issue on the repository.
